@@ -1,0 +1,33 @@
+{
+  "store.home": {
+    "blocks": [
+      "rich-text",
+      "info-card#button-right",
+      "info-card#button-left"
+    ]
+  },
+  "info-card#button-right": {
+    "props": {
+      "isFullModeStyle": false,
+      "textPosition": "right",
+      "imageUrl": "https://www.fitmoda.com.br/media/blog/post/fornecedores-roupas-femininas-dicas-para-acertar-escolha.jpg",
+      "headline": "MODA FEMININA",
+      "subhead": "Oferta de Vestuário Feminino até 60% OFF",
+      "callToActionMode": "button",
+      "callToActionText": "CONFIRA",
+      "textAlignment": "center"
+    }
+  },
+  "info-card#button-left": {
+    "props": {
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://cdnstatic8.com/ferricelli.com.br/blog/wp-content/uploads/2016/02/homem-elegante-contemporaneo_.jpg",
+      "headline": "MODA MASCULINA",
+      "subhead": "Oferta de Vestuário Masulino até 55% OFF",
+      "callToActionMode": "button",
+      "callToActionText": "CONFIRA",
+      "textAlignment": "center"
+    }
+  }
+}

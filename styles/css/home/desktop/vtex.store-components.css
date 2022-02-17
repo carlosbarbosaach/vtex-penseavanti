@@ -1,0 +1,25 @@
+.container {
+  background-color: #fff;
+}
+.infoCardHeadline {
+  font-family: "Playfair Display",sans-serif;
+    font-size: 30px;
+    color: #121212;
+    text-transform: uppercase;
+    display: inline-block;
+    border-top: 2px solid #121212;
+    letter-spacing: 12px;
+    padding-top: 6px;
+    margin: 0 auto 27px;
+}
+.infoCardSubhead {
+  font-size: 18px;
+  color: rgba(192, 192, 192, 0.74);
+    line-height: 20px;
+    height: 40px;
+    overflow: hidden;
+    font-weight: 500;
+}
+.infoCardCallActionContainer {
+
+}
